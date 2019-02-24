@@ -4,8 +4,7 @@ A new Flutter project.
 
 ## App Screen
 
-<img height="480px" src="screen_flutter_opt.gif">
-<img height="480px" src="assets/screen_flutter.png">
+<img src="screen_flutter_opt.gif"><img height="480px" src="assets/screen_flutter.png">
 
 ## Getting Started
 
